@@ -4,9 +4,9 @@ Unofficial Python integrations for InSync FamilyCareCenter.
 
 ## Integrations
 
-- `insync_familycarecenter_download_claim_by_id.py` - `download_claim_by_id` (53,298 live events).
-- `insync_familycarecenter_list_claim_ids.py` - `list_claim_ids` (781 live events).
-- `insync_familycarecenter_list_saved_queries.py` - `list_saved_queries` (8 live events).
+- `insync_familycarecenter_download_claim_by_id.py` - `download_claim_by_id`.
+- `insync_familycarecenter_list_claim_ids.py` - `list_claim_ids`.
+- `insync_familycarecenter_list_saved_queries.py` - `list_saved_queries`.
 
 ## Usage
 
